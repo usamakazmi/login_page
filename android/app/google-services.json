@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315342740249",
+    "project_id": "zabeechat",
+    "storage_bucket": "zabeechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315342740249:android:3e893de5b06ee80da24388",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315342740249-181tipngqqe1luk9488qaia8dblmgqf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Urk6dyNILnyLU8yIRG7eyuSFXV49-9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315342740249-181tipngqqe1luk9488qaia8dblmgqf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
